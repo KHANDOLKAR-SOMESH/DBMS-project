@@ -1,0 +1,29 @@
+
+
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #3498db, #2980b9); /* Blue gradient background */
+    color: #fff; /* Text color */
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+form {
+    background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background for the form */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Add your existing styles here */
+/* For example: */
+
+/* .custom-checkbox {
+    color: #fff;
+} */
+
+/* Add more styles as needed */
